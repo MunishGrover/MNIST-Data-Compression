@@ -1,1 +1,2 @@
 # MNIST-Data-Compression
+Autoencoders are a type of neural network architecture to perform data compression where the compression and decompression functions are learned from the data itself. Encoder and decoder are both neural networks. Even though autoencoders are not really better than the hand-engineering compression methods in compression, they are really good for image denoising and dimensionality reduction.In this project hand written digits data MNIST is being compressed using Convolutional AutoEncoders.
